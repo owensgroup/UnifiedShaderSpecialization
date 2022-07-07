@@ -1,0 +1,3 @@
+[submodule "external/hlslpp"]
+	path = external/hlslpp
+	url = git@github.com:kseitz/hlslpp.git
