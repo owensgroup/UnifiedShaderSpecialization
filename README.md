@@ -35,7 +35,7 @@ Required Software
    * `-DMSVC_DIA_SDK_DIR=C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/DIA SDK`
     * (Modify path appropriately for your install of Visual Studio 2019)
 
-  **Note 2:** We recommend building the `Release` and `RelWithDebInfo` builds of LLVM and Clang, which are use with thusc's `Release` and `Debug` builds, respectively.  However, you can change this by modifying `$THSUC/source/thusc/LLVMSpecificProperties-Release.props` and `$THUSC/source/thusc/LLVMSpecificProperties-Debug.props` to build against different LLVM build types.
+  **Note 2:** We recommend building the `Release` and `RelWithDebInfo` builds of LLVM and Clang, which are used with thusc's `Release` and `Debug` builds, respectively.  However, you can change this by modifying `$THSUC/source/thusc/LLVMSpecificProperties-Release.props` and `$THUSC/source/thusc/LLVMSpecificProperties-Debug.props` to build against different LLVM build types.
 
 
 Building
@@ -86,4 +86,4 @@ If you are writing code that `#includes` UE4 header files, we recommend generati
    UnrealEngine\Engine\Build\BatchFiles\Build.bat -mode=GenerateClangDatabase -Target="UE4Editor Win64 Development" -WaitMutex
    ```
 
-3) This generated file is very large, and the translator tool take a long time to parse it.  We recommend making a copy and editing it to contain just the portions you need.
+3) This generated file is very large, and the translator tool takes a long time to parse it.  We recommend making a copy and editing it to contain just the portions you need.
