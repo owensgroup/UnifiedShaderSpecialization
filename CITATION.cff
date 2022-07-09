@@ -1,10 +1,6 @@
 cff-version: 1.2.0
-message: >-
-  If you use this software, please cite the
-  associated technical paper from the preferred-citation.
-title: >-
-  Supporting Unified Shader Specialization by
-  Co-opting C++ Features
+message: "If you use this software, please cite the associated technical paper from the preferred-citation."
+title: "Supporting Unified Shader Specialization by Co-opting C++ Features"
 authors:
   - given-names: "Kerry A."
     family-names: "Seitz"
@@ -27,13 +23,10 @@ authors:
     email: "jowens@ece.ucdavis.edu"
     affiliation: "University of California, Davis"
     orcid: "https://orcid.org/0000-0001-6582-8237"
-repository-code: >-
-  https://github.com/owensgroup/UnifiedShaderSpecialization
+repository-code: "https://github.com/owensgroup/UnifiedShaderSpecialization"
 preferred-citation:
   type: article
-  title: >-
-    Supporting Unified Shader Specialization by
-    Co-opting C++ Features
+  title: "Supporting Unified Shader Specialization by Co-opting C++ Features"
   authors:
     - given-names: "Kerry A."
       family-names: "Seitz"
