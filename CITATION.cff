@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the
+  associated technical paper from the preferred-citation.
+title: >-
+  Supporting Unified Shader Specialization by
+  Co-opting C++ Features
+authors:
+  - given-names: "Kerry A."
+    family-names: "Seitz"
+    name-suffix: "Jr."
+    email: "kaseitz@ucdavis.edu"
+    affiliation: "University of California, Davis"
+    orcid: "https://orcid.org/0000-0003-2424-9495"
+  - given-names: "Theresa"
+    family-names: "Foley"
+    email: "tfoley@nvidia.com"
+    affiliation: "NVIDIA"
+    orcid: "https://orcid.org/0000-0002-2381-3544"
+  - given-names: "Serban D."
+    family-names: "Porumbescu"
+    email: "sdporumbescu@ucdavis.edu"
+    affiliation: "University of California, Davis"
+    orcid: "https://orcid.org/0000-0003-1523-9199"
+  - given-names: "John D."
+    family-names: "Owens"
+    email: "jowens@ece.ucdavis.edu"
+    affiliation: "University of California, Davis"
+    orcid: "https://orcid.org/0000-0001-6582-8237"
+repository-code: >-
+  https://github.com/owensgroup/UnifiedShaderSpecialization
+preferred-citation:
+  type: article
+  title: >-
+    Supporting Unified Shader Specialization by
+    Co-opting C++ Features
+  authors:
+    - given-names: "Kerry A."
+      family-names: "Seitz"
+      name-suffix: "Jr."
+      email: "kaseitz@ucdavis.edu"
+      affiliation: "University of California, Davis"
+      orcid: "https://orcid.org/0000-0003-2424-9495"
+    - given-names: "Theresa"
+      family-names: "Foley"
+      email: "tfoley@nvidia.com"
+      affiliation: "NVIDIA"
+      orcid: "https://orcid.org/0000-0002-2381-3544"
+    - given-names: "Serban D."
+      family-names: "Porumbescu"
+      email: "sdporumbescu@ucdavis.edu"
+      affiliation: "University of California, Davis"
+      orcid: "https://orcid.org/0000-0003-1523-9199"
+    - given-names: "John D."
+      family-names: "Owens"
+      email: "jowens@ece.ucdavis.edu"
+      affiliation: "University of California, Davis"
+      orcid: "https://orcid.org/0000-0001-6582-8237"
+  journal: "Proceedings of the ACM on Computer Graphics and Interactive Techniques"
+  year: 2022
+  volume: 5
+  issue: 3
+  start: 25:1
+  end: 25:17
+  month: 7
+  doi: 10.1145/3543866
