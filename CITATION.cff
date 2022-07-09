@@ -60,7 +60,7 @@ preferred-citation:
   year: 2022
   volume: 5
   issue: 3
-  start: 25:1
-  end: 25:17
+  start: "25:1"
+  end: "25:17"
   month: 7
   doi: 10.1145/3543866
